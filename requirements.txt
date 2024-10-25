@@ -1,0 +1,5 @@
+pywhatkit
+selenium
+ffmpeg-python
+bcrypt
+pyautogui
